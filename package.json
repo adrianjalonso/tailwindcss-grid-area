@@ -1,0 +1,12 @@
+{
+  "name": "@adrianxalonso/tailwindcss-grid-area",
+  "version": "0.0.1",
+  "description": "Plugin Tailwind CSS para gerar classes grid-area automaticamente",
+  "main": "index.js",
+  "keywords": ["tailwindcss", "plugin", "grid", "grid-area"],
+  "author": "Adrián Alonso (@adrianxalonso)",
+  "license": "MIT",
+  "peerDependencies": {
+    "tailwindcss": ">=3.0.0"
+  }
+}
