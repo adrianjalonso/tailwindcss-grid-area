@@ -1,6 +1,6 @@
 
 module.exports = {
   plugins: [
-    require('tailwindcss-grid-area'),
+    require('@adrianxalonso/tailwindcss-grid-area'),
   ],
 }

@@ -1,7 +1,9 @@
 # Tailwind CSS Grid Area Plugin
 
-Plugin para generar clases grid-area automáticamente.
+Grid-area class generator plugin
 
 ## Instalación
+
 ```bash
-npm install tailwindcss-grid-area
+npm install @adrianxalonso/tailwindcss-grid-area
+```
