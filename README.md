@@ -55,3 +55,24 @@ Adicione o plugin no seu tailwind.config.js:
 
 ✅ Ideal para layouts complexos com grid-template-areas ou grid-line-based placement
 
+
+---
+
+## Contribuindo
+1.	Faça um fork do repositório
+ 
+2.	Crie uma branch: git checkout -b minha-feature
+ 
+3.	Faça commit: git commit -m 'Adicionei suporte a mais linhas'
+ 
+4.	Envie um PR 🚀
+
+## Licença
+
+Este projeto está sob a licença MIT — veja o arquivo LICENSE para mais detalhes.
+
+## Agradecimentos
+
+Feito com ❤️ por @adrianjalonso
+Inspirado na sintaxe nativa do CSS Grid.
+
