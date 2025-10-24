@@ -69,7 +69,7 @@ Adicione o plugin no seu tailwind.config.js:
 
 ## Licença
 
-Este projeto está sob a licença MIT — veja o arquivo LICENSE para mais detalhes.
+Este projeto está sob a licença MIT — veja o arquivo [LICENSE](https://github.com/adrianjalonso/tailwindcss-grid-area/blob/master/LICENSE) para mais detalhes.
 
 ## Agradecimentos
 
